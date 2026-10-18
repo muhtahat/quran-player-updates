@@ -1,6 +1,6 @@
 # Quran Player updates
 
-Firmware downloads for gift devices built with an ESP32-S3 N16R8 and NS4168 amplifier.
+Firmware downloads for all devices built with an ESP32-S3 N16R8 and NS4168 amplifier.
 
 - Install the initial firmware locally once before giving the device away.
 - Join QuranPlayer-Setup to enter the recipient's WiFi details. Open http://quranplayer.local/ on that WiFi.
